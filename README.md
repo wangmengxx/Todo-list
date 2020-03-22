@@ -1,5 +1,5 @@
 # Todo list
-使用node框架，构建一个Restful API，能够完成Todo list的以下功能。  
+使用SpringBoot框架，构建一个Restful API，能够完成Todo list的以下功能。  
 - 返回所有Todo任务  
 - 创建一个新的Todo任务  
 - 返回一个指定ID的Todo任务  
@@ -21,5 +21,3 @@ POST /api/tasks/
 GET /api/tasks/{id}
 DELETE /api/tasks/{id}
 ```
-# Todo-list
-# Todo-list
